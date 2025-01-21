@@ -35,3 +35,8 @@ O banco de dados contém as seguintes tabelas principais:
 - **Cliente PF e PJ**: Agora, um cliente pode ser de tipo **Pessoa Física (PF)** ou **Pessoa Jurídica (PJ)**, com campos separados para CPF e CNPJ, mas um cliente pode ter apenas um desses valores.
 - **Pagamento**: O cliente pode cadastrar várias formas de pagamento (cartão de crédito, boleto, transferência, etc.).
 - **Entrega**: A tabela de pedidos agora inclui informações sobre o **status de entrega** e o **código de rastreio**.
+
+<h3>## Para o desafio: Construindo seu Primeiro Projeto Lógico de Banco de Dados</h3>
+
+Os arquivos com as querys de criação e perguntas do negócio estão na pasta Documentos.
+
